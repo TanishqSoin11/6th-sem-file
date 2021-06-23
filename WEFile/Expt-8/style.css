@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.branch {
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  background-color: rgb(189, 101, 1);
+  padding: 3%;
+}
+
+.time-table {
+  text-align: center;
+  background-color: rgb(70, 87, 238);
+  padding: 3%;
+}

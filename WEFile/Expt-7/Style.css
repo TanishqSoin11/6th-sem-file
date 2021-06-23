@@ -1,0 +1,28 @@
+main {
+  background-color: rgb(243, 255, 80);
+}
+points {
+  color: rgba(235, 23, 23, 0.897);
+  width: 100%;
+  font-size: 2rem;
+}
+heading {
+  color: rgb(13, 102, 13);
+  font-size: 3rem;
+  margin: 0 30%;
+}
+
+title,
+bullets {
+  display: block;
+
+  margin: 0 30%;
+}
+
+title {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: 3rem;
+}

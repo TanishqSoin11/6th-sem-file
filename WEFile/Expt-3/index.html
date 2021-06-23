@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form>
+        <div class="container">
+            <div class="top-container">
+                <h1>Register</h1>
+                <p>Please fill in this form to create an account.</p>
+            </div>
+            <hr>
+
+            <div class="form-container">
+                <label for="name"><b>Name</b></label>
+                <input class="temp" type="text" placeholder="Enter Name" name="name" required>
+                <br>
+
+                <label for="college"><b>College</b></label>
+                <input class="temp" type="text" placeholder="Enter College" name="college" required>
+                <br>
+
+                <label for="branch"><b>Branch</b></label>
+                <input class="temp" type="text" placeholder="Enter Branch" name="branch" required>
+                <br>
+
+                <label for="gender"><b>Gender</b></label>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label>
+                <br>
+
+                <label for="email"><b>Email</b></label>
+                <input class="temp" type="text" placeholder="Enter Email" name="email" id="email" required>
+                <br>
+
+                <label for="psw"><b>Password</b></label>
+                <input class="temp" type="password" placeholder="Enter Password" name="psw" id="psw" required>
+                <br>
+
+
+
+                <button type="submit" class="registerbtn">Register</button>
+            </div>
+
+
+        </div>
+    </form>
+</body>
+
+</html>

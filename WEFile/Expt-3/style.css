@@ -1,0 +1,23 @@
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 3rem;
+}
+
+.top-container {
+  background-color: cyan;
+  color: purple;
+}
+
+.temp {
+  width: 30%;
+  margin-bottom: 2%;
+  height: 20px;
+}

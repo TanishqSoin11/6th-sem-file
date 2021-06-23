@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Style.css"?>
+<main>
+	<heading>XML - Extensible Markup Language</heading>
+	<points>
+        <title>What is XML?</title>
+        <bullets>XML stands for eXtensible Markup Language</bullets>
+        <bullets>XML is a markup language much like HTML</bullets>
+        <bullets>XML was designed to store and transport data</bullets>
+        <bullets>XML was designed to be self-descriptive</bullets>
+    </points>
+</main>
